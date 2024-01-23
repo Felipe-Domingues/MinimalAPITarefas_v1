@@ -1,4 +1,4 @@
-<h1 align="center">Tarefa API</h1>
+<h1 align="center">Minimal API Tarefas V1</h1>
 
 <p align="center">
 Criado como desafio para fixar os conceitos básicos das Minimal APIs .NET 8<br/>
