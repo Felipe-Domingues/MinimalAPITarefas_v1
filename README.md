@@ -22,7 +22,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - .NET 8
 - Dapper
-- OpenAPI (Swagger)
 - SQL Server
 
 ## 💻 Projeto
